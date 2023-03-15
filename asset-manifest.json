@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//brisleyF.github.io/TODO-Machine-React/static/css/main.f66f4f3c.css",
+    "main.js": "/https//brisleyF.github.io/TODO-Machine-React/static/js/main.421f35d0.js",
+    "index.html": "/https//brisleyF.github.io/TODO-Machine-React/index.html",
+    "main.f66f4f3c.css.map": "/https//brisleyF.github.io/TODO-Machine-React/static/css/main.f66f4f3c.css.map",
+    "main.421f35d0.js.map": "/https//brisleyF.github.io/TODO-Machine-React/static/js/main.421f35d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66f4f3c.css",
+    "static/js/main.421f35d0.js"
+  ]
+}
